@@ -1,0 +1,10 @@
+id: YDP430BT009-V1
+category: displays
+size: "4.3"
+panel: tft
+resolution: 480x800
+interface: [mipi, i2c]
+driver: ST7102
+touch: null
+outline: 66.8 x 114.4 x 3.12 mm
+active_area: 56.16 x 93.60 mm

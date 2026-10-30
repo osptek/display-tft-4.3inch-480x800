@@ -1,0 +1,11 @@
+dependencies:
+  esp_lvgl_adapter:
+    pre_release: true
+    version: '*'
+  hw_init:
+    version: '*'
+  idf:
+    version: '>=5.5.0'
+  lvgl/lvgl:
+    public: true
+    version: ^9
