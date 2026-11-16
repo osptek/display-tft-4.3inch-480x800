@@ -14,7 +14,7 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32p4-idf6-st7102-mipi-dsi-sc2336-mipi-csi-video-lcd-display`](./esp32p4-idf6-st7102-mipi-dsi-sc2336-mipi-csi-video-lcd-display/) | ESP32-P4 · ESP-IDF 6 | ST7102 | MIPI | 摄像头实时显示 / camera live view |
 | [`esp32p4-idf6-st7102-mipi-lvgl-port-lvgl9-ppa`](./esp32p4-idf6-st7102-mipi-lvgl-port-lvgl9-ppa/) | ESP32-P4 · ESP-IDF 6 | ST7102 | MIPI | LVGL 9、PPA 硬件加速 / LVGL 9, PPA acceleration |
 | [`esp32p4-tft-4.3in-480x800-st7102-rgb-bringup`](./esp32p4-tft-4.3in-480x800-st7102-rgb-bringup/) | ESP32-P4 · ESP-IDF | ST7102 | RGB | 点亮示例 / bring-up example |
-| [`esp32p4-idf6_st7102-mipi-480x800_osptek-boot-anim_lvgl9`](./esp32p4-idf6_st7102-mipi-480x800_osptek-boot-anim_lvgl9/) | ESP32-P4 · ESP-IDF | ST7102 | RGB | 点屏测试 / 开机动画+防撕裂+lvgl9 / Boot animation + anti-tearing + LVGL 9 |
+| [`esp32p4-idf6_st7102-mipi-480x800_osptek-boot-anim_lvgl9`](./esp32p4-idf6_st7102-mipi-480x800_osptek-boot-anim_lvgl9/) | ESP32-P4 · ESP-IDF | ST7102 | MIPI | 点屏测试 / 开机动画+防撕裂+lvgl9 / Boot animation + anti-tearing + LVGL 9 |
 | [`rk3566-buildroot-st7102-mipi-480x800`](./rk3566-buildroot-st7102-mipi-480x800/) | RK3566 (Linux) | ST7102 + ST7123 | MIPI | Linux 设备树与触摸驱动参考 / Linux device tree and touch driver reference |
 | [`rpi5-lvgl-st7102-st7123-480x800`](./rpi5-lvgl-st7102-st7123-480x800/) | Raspberry Pi 5 | ST7102 + ST7123 | — | LVGL、触摸 / LVGL, touch |
 | [`rpi5-panel-st7102-480x800`](./rpi5-panel-st7102-480x800/) | Raspberry Pi 5 | ST7102 | — | 面板驱动 / panel driver |
